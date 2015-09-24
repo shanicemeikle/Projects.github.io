@@ -1,0 +1,67 @@
+* { margin: 0; 
+    padding: 0; }
+        body { font: 16px Helvetica, Sans-Serif; 
+      line-height: 24px; 
+      background: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4De6oTfu-xPwhD2zpuz5aAt0-WjfH7PKqUS8TzxkIrqoQIcfOkA");
+      background-size: cover; }
+.info { clear: both;}
+
+#page-settings { 
+            width: 800px; 
+            margin:auto;     
+            }
+img{
+    float: right;
+    TOP:75px;
+    LEFT:850px;
+    WIDTH:200px; 
+    HEIGHT:200px;
+    transform: rotate(-5deg);
+    border: 6px solid #CCCCCC;
+  }
+h1 { margin: 0 0 16px 0; 
+    padding: 0 0 16px 0;
+    font-size: 42px; 
+    font-weight: bold;  
+}
+#name{ font-family: Verdana, sans-serif;
+      color: #120600;
+      }
+    
+h3 { font-size: 20px;
+    margin: 0 0 6px 0;
+    position: relative; 
+    
+}
+
+h3 span { position: absolute; 
+    bottom: 0;
+    right:0; 
+    font-style:italic; 
+    font-family: Georgia, Serif; 
+    font-size: 16px; color: #999;
+     }
+p { margin: 0 0 16px 0; }
+
+ul { margin: 0 0 32px 17px; }
+#description { width: 500px; float: left; }
+#description p { font-family: Georgia, Serif; 
+font-style: italic; 
+color: #666; 
+    
+}
+dt { font-style:italic; 
+    font-weight: bold;
+    font-size: 16px; text-align: right;
+    padding: 0 23px 0 0; 
+    width: 140px; 
+    float: left; 
+    height: 90px; 
+    border-right: 1px solid #999;  }
+    
+dd { width: 600px; 
+    float: right; }
+    
+dd.clear { float: none;
+    margin: 0; 
+    height: 15px; }
