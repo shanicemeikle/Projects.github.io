@@ -70,3 +70,14 @@ dd { width: 600px;
 dd.info { float: none;
     margin: 0; 
     height: 15px; }
+a:link {
+    color: #62625B;
+    text-decoration:underline;
+}
+a:hover{
+    text-decoration:none;
+    color:#1F1F14;
+}
+a{
+    color:#1F1F14;
+}
